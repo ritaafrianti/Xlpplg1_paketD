@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-$koneksi = mysqli_connect('localhost','root','','absensi_db');
+$koneksi = mysqli_connect('localhost','root','','ukk_sppp');
 
 if(!$koneksi){
     echo"Koneksi Anda Gagal";
